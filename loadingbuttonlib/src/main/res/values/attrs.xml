@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LoadingButton">
+        <attr name="LoadingButton_text" format="string"></attr>
+        <attr name="LoadingButton_textColor" format="color"></attr>
+        <attr name="LoadingButton_textSize" format="dimension"></attr>
+        <attr name="LoadingButton_background" format="reference"></attr>
+        <attr name="LoadingButton_drawableLeft" format="reference"></attr>
+        <attr name="LoadingButton_drawablePadding" format="dimension"></attr>
+    </declare-styleable>
+</resources>

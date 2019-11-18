@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.zhuoCreator.loadingbutton.LoadingButton
+        android:id="@+id/loadingButton"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        app:LoadingButton_drawableLeft="@drawable/lj"
+        app:LoadingButton_drawablePadding="10dp"
+        app:LoadingButton_text="@string/app_name"
+        app:LoadingButton_textColor="@color/colorPrimaryDark"
+        app:LoadingButton_textSize="18sp" />
+</android.support.constraint.ConstraintLayout>
