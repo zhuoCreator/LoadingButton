@@ -23,6 +23,11 @@ Step 2. Add the dependency
      implementation 'com.github.zhuoCreator:LoadingButton:v1.0.0'
 ```
 
+
+# 效果图
+![](https://github.com/zhuoCreator/LoadingButton/blob/master/app/src/main/res/drawable/GIF.gif)  
+
+
 # 使用方法
 1.在XML下添加 LoadingButton
 ```
