@@ -4,9 +4,19 @@
 
 
 
+Step 1. Add the JitPack repository to your build file
+```
+ allprojects {
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' } 
+    }
+}
 
+```
 
-Step 1. Add the dependency
+Step 2. Add the dependency
 
    
 ```
